@@ -2,9 +2,8 @@
   "name": "roado",
   "version": "0.1.0",
   "homepage": "https://lapalb.github.io/todo",
-  "private": true,
+  "private": false,
   "dependencies": {
-    "gh-pages": "^2.0.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1"
